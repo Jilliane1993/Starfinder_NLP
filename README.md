@@ -24,7 +24,6 @@ As a longtime fan of tabletop roleplaying games when the time to choose a data s
 
 * Characterization
   * spaCy
-  * en_core_web_md
   * Doc2Vec
 
 * Visualization
